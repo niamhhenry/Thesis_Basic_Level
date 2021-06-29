@@ -1,0 +1,10 @@
+,Features,Importance
+7,depthfromtopsynset_normalised,0.3412399645915181
+6,glosslength_normalised,0.1373467815780234
+0,ngrams_last_mean,0.1325214954971544
+1,minwordlength,0.10968769543757075
+5,nrhypos,0.08347525803309262
+3,polyscore_max,0.07173875297730757
+4,nrpartrels_normalised,0.06655833291980116
+2,nroflemmas,0.04858200654700621
+8,nrdirhypers,0.008849712418525758
